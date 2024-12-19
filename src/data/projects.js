@@ -19,7 +19,7 @@ export const projects = [
     image: GDSCF,
     link: "https://www.figma.com/design/BhOEN6ytjBHTY51jy7e47M/Untitled?node-id=1-53&m=dev",
     description:
-      "Patform that allows users to learn about the club and its activities and Blogs.",
+      "Platform that allows users to learn about the club and its activities and Blogs.",
   },
   {
     title: "AIP Scheduling",
