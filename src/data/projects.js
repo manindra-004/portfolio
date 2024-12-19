@@ -12,14 +12,14 @@ export const projects = [
     image: TradeX,
     link: "https://www.figma.com/design/GkDHr8Jirb0AxnX5UhMSgA/Untitled?node-id=0-1&t=r2AenagZPv4FxXLU-1",
     description:
-      "TradeX is a platform that allows users to trade goods and services with other users in the same location in Crypto Market.",
+      "TradeX is a platform that allows users to trade goods and services in Crypto Market.",
   },
   {
-    title: "Google Developer Student Club Figma",
+    title: "Google DSC Figma",
     image: GDSCF,
     link: "https://www.figma.com/design/BhOEN6ytjBHTY51jy7e47M/Untitled?node-id=1-53&m=dev",
     description:
-      "Google Developer Student Club Figma is a platform that allows users to learn about the club and its activities and Blogs.",
+      "Patform that allows users to learn about the club and its activities and Blogs.",
   },
   {
     title: "AIP Scheduling",
